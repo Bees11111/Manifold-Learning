@@ -1,0 +1,13 @@
+jeudi vendredi 09h30
+mardi jeudi    14h
+1e OCT 9h30 3OCT 9h30
+
+
+
+CLASS n1 SLIDE NOTES :
+
+target : Esperence(Y)
+data : (Y1, Y2, ..., Yn)
+       ( 1,  1, ...,  1)
+Canditats : { s appartient a R :  min(Yi) <= 1 <= max(Yi), i=1,...,n}
+Loss function : l(y,s) = (y-s)^2  quadtratic loss formula
